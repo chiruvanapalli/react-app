@@ -4,7 +4,7 @@ const Shop = () => {
   return (
     <div>
         <h2>Shop</h2>
-        <p>Product Description...!</p>
+        <p>Products with description</p>
     </div>
   )
 }
